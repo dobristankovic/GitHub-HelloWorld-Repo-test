@@ -1,2 +1,2 @@
 # GitHub-HelloWorld-Repo-test
-Just for testing :-)
+And this is just for testing of the branch :-)
